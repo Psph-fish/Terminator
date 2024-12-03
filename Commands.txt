@@ -1,0 +1,4 @@
+/dmsend [user] [message] - Can send Dm to any User.Allows You to Read the Reply sent my the user also.
+Supports Gifs and Photos too.
+/send [channel] [message] - Feeling Funny or Are Cracked in the head? Well no Worries this Command is for you.
+Send any message into a specific Channel and Enjoy the Fun!
